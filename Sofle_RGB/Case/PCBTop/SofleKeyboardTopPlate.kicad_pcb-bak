@@ -11,7 +11,7 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
+    (0 F.Cu signal hide)
     (31 B.Cu signal hide)
     (32 B.Adhes user hide)
     (33 F.Adhes user hide)
@@ -102,7 +102,7 @@
   )
 
   (module Symbol:OSHW-Logo_5.7x6mm_SilkScreen (layer B.Cu) (tedit 0) (tstamp 600AF0BA)
-    (at 200.995 122.8 180)
+    (at 201.995 124.8 180)
     (descr "Open Source Hardware Logo")
     (tags "Logo OSHW")
     (attr virtual)
@@ -454,7 +454,7 @@
   )
 
   (module Symbol:OSHW-Logo_5.7x6mm_SilkScreen (layer F.Cu) (tedit 0) (tstamp 600AF08E)
-    (at 200.995 122.8)
+    (at 201.995 124.8)
     (descr "Open Source Hardware Logo")
     (tags "Logo OSHW")
     (attr virtual)
